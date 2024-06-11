@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\jackw\PARADIGMAS\3er_parcial\flutterhackeramiibos\hacker_amiibos\windows\flutter\ephemeral\.plugin_symlinks\connectivity_plus\windows\connectivity_plus_plugin.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\jackw\PARADIGMAS\3er_parcial\flutterhackeramiibos\hacker_amiibos\windows\flutter\ephemeral\.plugin_symlinks\connectivity_plus\windows\network_manager.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\jackw\PARADIGMAS\3er_parcial\flutterhackeramiibos\hacker_amiibos\windows\flutter\ephemeral\.plugin_symlinks\connectivity_plus\windows\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{33CA7193-EBB1-396C-880A-EFDCC018871F}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

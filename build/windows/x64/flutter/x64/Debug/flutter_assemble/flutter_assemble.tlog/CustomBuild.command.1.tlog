@@ -1,0 +1,28 @@
+^C:\USERS\JACKW\PARADIGMAS\3ER_PARCIAL\FLUTTERHACKERAMIIBOS\HACKER_AMIIBOS\BUILD\WINDOWS\X64\CMAKEFILES\35F41714A94C65CB5EC1A2CA4EB0C562\FLUTTER_WINDOWS.DLL.RULE
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E env FLUTTER_ROOT=C:\dev\flutter_windows_3.22.0-stable\flutter PROJECT_DIR=C:\Users\jackw\PARADIGMAS\3er_parcial\flutterhackeramiibos\hacker_amiibos FLUTTER_ROOT=C:\dev\flutter_windows_3.22.0-stable\flutter FLUTTER_EPHEMERAL_DIR=C:\Users\jackw\PARADIGMAS\3er_parcial\flutterhackeramiibos\hacker_amiibos\windows\flutter\ephemeral PROJECT_DIR=C:\Users\jackw\PARADIGMAS\3er_parcial\flutterhackeramiibos\hacker_amiibos FLUTTER_TARGET=C:\Users\jackw\PARADIGMAS\3er_parcial\flutterhackeramiibos\hacker_amiibos\lib\main.dart DART_DEFINES=RkxVVFRFUl9XRUJfQ0FOVkFTS0lUX1VSTD1odHRwczovL3d3dy5nc3RhdGljLmNvbS9mbHV0dGVyLWNhbnZhc2tpdC9kODFlZGY2MzVhOWY0N2ZkOGI4ZGQxZGM5NGFmZGIzZWFmZmU1MWZiLw== DART_OBFUSCATION=false TRACK_WIDGET_CREATION=true TREE_SHAKE_ICONS=false PACKAGE_CONFIG=C:\Users\jackw\PARADIGMAS\3er_parcial\flutterhackeramiibos\hacker_amiibos\.dart_tool\package_config.json C:/dev/flutter_windows_3.22.0-stable/flutter/packages/flutter_tools/bin/tool_backend.bat windows-x64 Debug
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\JACKW\PARADIGMAS\3ER_PARCIAL\FLUTTERHACKERAMIIBOS\HACKER_AMIIBOS\BUILD\WINDOWS\X64\CMAKEFILES\B7C369F480319A979EAD48B9717905D2\FLUTTER_ASSEMBLE.RULE
+setlocal
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\JACKW\PARADIGMAS\3ER_PARCIAL\FLUTTERHACKERAMIIBOS\HACKER_AMIIBOS\WINDOWS\FLUTTER\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SC:/Users/jackw/PARADIGMAS/3er_parcial/flutterhackeramiibos/hacker_amiibos/windows -BC:/Users/jackw/PARADIGMAS/3er_parcial/flutterhackeramiibos/hacker_amiibos/build/windows/x64 --check-stamp-file C:/Users/jackw/PARADIGMAS/3er_parcial/flutterhackeramiibos/hacker_amiibos/build/windows/x64/flutter/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

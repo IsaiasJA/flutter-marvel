@@ -1,0 +1,16 @@
+com.example.hacker_amiibos.app-jetified-annotation-experimental-1.1.0-0 C:\Users\jackw\.gradle\caches\transforms-3\1430f0ba200dad8539fe63c1c6609227\transformed\jetified-annotation-experimental-1.1.0\res
+com.example.hacker_amiibos.app-jetified-window-java-1.0.0-beta04-1 C:\Users\jackw\.gradle\caches\transforms-3\5077c21c9fa644ae38cb776e399be57b\transformed\jetified-window-java-1.0.0-beta04\res
+com.example.hacker_amiibos.app-jetified-window-1.0.0-beta04-2 C:\Users\jackw\.gradle\caches\transforms-3\77ca3427fe6b75309d22eba1558e2c8f\transformed\jetified-window-1.0.0-beta04\res
+com.example.hacker_amiibos.app-core-1.6.0-3 C:\Users\jackw\.gradle\caches\transforms-3\9a40c200138cd53256b581e0f3209d07\transformed\core-1.6.0\res
+com.example.hacker_amiibos.app-debug-4 C:\Users\jackw\PARADIGMAS\3er_parcial\flutterhackeramiibos\hacker_amiibos\android\app\src\debug\res
+com.example.hacker_amiibos.app-main-5 C:\Users\jackw\PARADIGMAS\3er_parcial\flutterhackeramiibos\hacker_amiibos\android\app\src\main\res
+com.example.hacker_amiibos.app-pngs-6 C:\Users\jackw\PARADIGMAS\3er_parcial\flutterhackeramiibos\hacker_amiibos\build\app\generated\res\pngs\debug
+com.example.hacker_amiibos.app-resValues-7 C:\Users\jackw\PARADIGMAS\3er_parcial\flutterhackeramiibos\hacker_amiibos\build\app\generated\res\resValues\debug
+com.example.hacker_amiibos.app-rs-8 C:\Users\jackw\PARADIGMAS\3er_parcial\flutterhackeramiibos\hacker_amiibos\build\app\generated\res\rs\debug
+com.example.hacker_amiibos.app-mergeDebugResources-9 C:\Users\jackw\PARADIGMAS\3er_parcial\flutterhackeramiibos\hacker_amiibos\build\app\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.example.hacker_amiibos.app-mergeDebugResources-10 C:\Users\jackw\PARADIGMAS\3er_parcial\flutterhackeramiibos\hacker_amiibos\build\app\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.example.hacker_amiibos.app-merged_res-11 C:\Users\jackw\PARADIGMAS\3er_parcial\flutterhackeramiibos\hacker_amiibos\build\app\intermediates\merged_res\debug
+com.example.hacker_amiibos.app-packaged_res-12 C:\Users\jackw\PARADIGMAS\3er_parcial\flutterhackeramiibos\hacker_amiibos\build\connectivity_plus\intermediates\packaged_res\debug
+com.example.hacker_amiibos.app-packaged_res-13 C:\Users\jackw\PARADIGMAS\3er_parcial\flutterhackeramiibos\hacker_amiibos\build\path_provider_android\intermediates\packaged_res\debug
+com.example.hacker_amiibos.app-packaged_res-14 C:\Users\jackw\PARADIGMAS\3er_parcial\flutterhackeramiibos\hacker_amiibos\build\shared_preferences_android\intermediates\packaged_res\debug
+com.example.hacker_amiibos.app-packaged_res-15 C:\Users\jackw\PARADIGMAS\3er_parcial\flutterhackeramiibos\hacker_amiibos\build\sqflite\intermediates\packaged_res\debug
